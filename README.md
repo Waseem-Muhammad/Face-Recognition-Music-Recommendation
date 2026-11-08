@@ -1,4 +1,4 @@
-# CodeAlpha_Tasks_ML1
+# Face-Recognition-Music-Recommendation
 
 This repository contains two machine learning projects:
 
